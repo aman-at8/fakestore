@@ -1,0 +1,30 @@
+.login {
+	border: 1px solid;
+	border-color: black;
+	height: 100px;
+	width: 300px;
+	padding: 5px;
+	display: flex;
+	flex-direction: column;
+}
+
+.loginDetails {
+	width: 300px;
+	/* border: 1px solid; */
+}
+
+.userId {
+	width: 270px;
+	margin-bottom: 5px;
+	height: 20px
+}
+
+.password {
+	width: 270px;
+	margin-bottom: 5px;
+	height: 20px
+}
+
+.loginBtn {
+	background-color: rgb(31, 156, 240);
+}
