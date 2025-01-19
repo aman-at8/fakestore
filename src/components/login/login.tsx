@@ -2,11 +2,6 @@ import React, { useState } from 'react'
 import './login.css'
 
 
-// const loginCredentials = () => {
-//     const userId = document.getElementsByClassName('userId')
-//     const password = document.getElementsByClassName('password')
-// }
-
 const Login = () => {
     const [loginDetails, setlLoginDetails] = useState({
         userId: "", 
