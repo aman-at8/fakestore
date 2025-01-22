@@ -1,0 +1,29 @@
+.produtMini {
+	width: 25vw;
+	height: 60vh;
+	border: 1px solid;
+	margin-bottom: 15px;
+	padding: 5px;
+	position: relative;
+}
+
+.productImage {
+	width: 25vw;
+	height: 35vh;
+}
+
+h6 {
+	margin: 0 0;
+}
+
+h4 {
+	margin: 0 0;
+	text-align: center;
+}
+
+button {
+	position: absolute;
+	top: 92%;
+	width: 25vw;
+	height: 7%
+}
