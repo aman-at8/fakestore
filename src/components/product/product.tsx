@@ -13,7 +13,7 @@ const Product: React.FC = ({ id, title, price, category, description, image }): 
 			<img className="productImage" src={image} />
 			<h4>{title}</h4>
 			<h4>{price}</h4>
-			<button>Buy Now</button>
+			<button className='button-product'>Buy Now</button>
 		</div>
 	)
 }
