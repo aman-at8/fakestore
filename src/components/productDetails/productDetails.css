@@ -1,0 +1,22 @@
+.productDetails {
+    height: 50vh;
+    width: 30vw;
+    border: 1px solid;
+    padding: 5px;
+}
+
+.description {
+    width: 30vw;
+    display: flex;
+    flex-direction: row;
+    height: 50%
+}
+
+.productImage {
+    margin-right: 15px;
+    height: 100%;
+}
+
+.productDescription {
+    height: 100%;
+}
